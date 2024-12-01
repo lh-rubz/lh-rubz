@@ -3,7 +3,7 @@
 
 ![gitHubGirl](https://github.com/user-attachments/assets/9d18888b-68a1-4752-af7a-e0e9e733fad4)
 ![](https://github-profile-trophy.vercel.app/?username=lh-rubz&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-- 🔭 I’m currently working on [Car Rental Project](https://github.com/lh-rubz/CarRental)
+- 🔭 I’m currently working on My Algorithm project &#128556;
 
 - 🌱 I’m currently learning **React**
 
